@@ -1,0 +1,12 @@
+F1 -
+F2 Relax
+F3 Rest
+F4 Posture
+F5 Reach
+F6 Grasp
+F7 Arm out
+F8 Arm across
+F9 Undefined
+F10 Undefined
+F11 Undefined
+F12 Undefined
